@@ -1,4 +1,4 @@
-# MACLEAN26
+# M26
 Official implementation for the paper "Entropy-Based Active Learning for Earth Observation and Astrophysics Data Classification". This repository contains the complete code to reproduce all experiments from the paper, including cross-domain evaluation on Fermi-GBM GRB classification and Air Quality UCI dataset.
 
 Key Features:
